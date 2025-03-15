@@ -4,14 +4,6 @@
 File Conversion Website Convert your Image, video, Pdf to other formats.
 
 
-
-## Setup
-
-1. **Navigate to Frontend:**
-   ```sh
-   cd FileConversion
-   ```
-
 ## Running the Backend
 
 ### Setup
@@ -19,7 +11,7 @@ File Conversion Website Convert your Image, video, Pdf to other formats.
 1. Navigate to the `backend` directory:
 
 ```
-cd FileConversion/backend
+cd backend
 ```
 
 2. Install the required Python packages:
@@ -45,7 +37,7 @@ The backend server should now be running and ready to handle requests.
 1. Navigate to the `frontend` directory:
 
 ```
-cd FileConversion/frontend
+cd frontend
 ```
 
 2. Install the required Node.js packages:
